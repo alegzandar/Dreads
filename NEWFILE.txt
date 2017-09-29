@@ -1,3 +1,7 @@
 CONTENT
+<<<<<<< HEAD
 new shit
 new shit 2
+=======
+changeeees
+>>>>>>> 4bf121980ede00ceea8dd5ec474c15e6b5a7a475
